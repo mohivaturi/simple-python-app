@@ -1,4 +1,4 @@
-# simple-python-app
+# AWS CI (Continuous integration)
 
 Video: 
 
