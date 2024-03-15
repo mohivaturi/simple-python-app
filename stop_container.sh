@@ -1,6 +1,8 @@
 #!/bin/bash
 set -x
 
+docker ps 
+
 echo "check whether any container is running"
 Container-id=docker ps | awk -F " " '{Print $1}'
 
