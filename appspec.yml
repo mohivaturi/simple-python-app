@@ -10,6 +10,3 @@ hooks:
     - location: start_container.sh
       timeout: 300
       runas: root
-  files:
-  - source: "./out"
-    destination: "/var/www/html"
