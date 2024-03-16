@@ -24,3 +24,8 @@ phases:
     commands:
       - echo "Build completed successfully!"
 
+  artifacts:
+  files:
+    - "**/*"
+  base-directory: "./"
+
