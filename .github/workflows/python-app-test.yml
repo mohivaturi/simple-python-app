@@ -30,4 +30,4 @@ jobs:
 
             - name: run python server
               run: |
-                python app.py 3000
+                python app.py 5000
