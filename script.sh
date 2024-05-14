@@ -10,3 +10,4 @@ sudo yum install -y python-pip
 sudo pip install awscli
 yum install docker* -y
  
+ 
