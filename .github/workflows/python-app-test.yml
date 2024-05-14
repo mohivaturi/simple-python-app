@@ -27,7 +27,3 @@ jobs:
             - name: Run tests
               run: |
                 python -m pytest app.py
-  
-            - name: run python server
-              run: |
-                python app.py 5000
